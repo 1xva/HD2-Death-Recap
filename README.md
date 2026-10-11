@@ -16,9 +16,8 @@ HP before death: 0 / 125
 If an enemy kills you the panel stays hidden this mod is !PvP focused!
 
 ## Requirements
-
-- **Bingus Shared Loader v18+**
-- **HD2Runtime v0.28.1+** (by SkyeShade)
+- [Bingus Shared Loader v18+](https://ayakamods.com/mods/bingus-shared-loader.3861/)
+- [HD2Runtime v0.28.1+](https://github.com/SkyeShade/HD2Runtime)
 - Both must be loaded **before** this mod
 
 ## Installation
