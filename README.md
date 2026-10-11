@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/766f72f4-5896-416c-8ee9-c4d720b2ddb6" /><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/55d2b318-d032-4ff3-a89d-d2026ac2e0ff" />
+
 # HD2-Death-Recap
 shows who killed you (pvp only)  in Helldivers 2 when its a teammate. Displays killers nickname total damage last hit and HP before death requires HD2Runtime
 
