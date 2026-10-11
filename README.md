@@ -57,4 +57,4 @@ All reads. Never writes to game memory.
 
 ## License
 
-MIT — do whatever you want, no warranty.
+MIT - do whatever you want, no warranty.
